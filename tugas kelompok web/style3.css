@@ -1,0 +1,27 @@
+*{
+	margin: 0px;
+	font-family: Bahnschrift;	
+}
+header{
+	background-image: linear-gradient(rgba(0,0,0,0.5),
+	 rgba(0,0,0,0.5)), url(perpustaka.jpg);
+	height: 100vh;
+	background-position: center;
+}
+.contents h1{
+	color: #fff;
+	margin-left: 500px;
+	font-size: 65px;
+	text-shadow: -2px 2px 4px #000;
+}
+.contents p{
+	color: #fff;
+	font-size: 25px;
+	margin-top: 4px;
+	margin-left: 6px;
+	text-align: left;
+	position: left;
+	top: 65%;
+	left:-43%;
+	text-shadow: -2px 2px 4px #000;	
+}
